@@ -1,0 +1,13 @@
+2024-12-08 05:56:30,256 INFO - Starting the scheduler
+2024-12-08 05:56:30,257 INFO - Processing each file at most -1 times
+2024-12-08 05:56:30,263 INFO - Launched DagFileProcessorManager with pid: 4136
+2024-12-08 05:56:30,265 INFO - Resetting orphaned tasks for active dag runs
+2024-12-08 05:56:30,280 INFO - Configured default timezone Timezone('UTC')
+2024-12-08 05:58:30,512 INFO - Exiting gracefully upon receiving signal 15
+2024-12-08 05:58:31,514 INFO - Sending Signals.SIGTERM to group 4136. PIDs of all processes in the group: [4136]
+2024-12-08 05:58:31,515 INFO - Sending the signal Signals.SIGTERM to group 4136
+2024-12-08 05:58:31,777 INFO - Process psutil.Process(pid=4136, status='terminated', exitcode=0, started='05:56:29') (4136) terminated with exit code 0
+2024-12-08 05:58:31,778 INFO - Sending Signals.SIGTERM to group 4136. PIDs of all processes in the group: []
+2024-12-08 05:58:31,779 INFO - Sending the signal Signals.SIGTERM to group 4136
+2024-12-08 05:58:31,779 INFO - Sending the signal Signals.SIGTERM to process 4136 as process group is missing.
+2024-12-08 05:58:31,779 INFO - Exited execute loop

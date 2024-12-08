@@ -1,0 +1,9 @@
+[2024-12-08 05:56:30 +0000] [4125] [INFO] Starting gunicorn 20.1.0
+[2024-12-08 05:56:30 +0000] [4125] [INFO] Listening at: http://[::]:8793 (4125)
+[2024-12-08 05:56:30 +0000] [4125] [INFO] Using worker: sync
+[2024-12-08 05:56:30 +0000] [4127] [INFO] Booting worker with pid: 4127
+[2024-12-08 05:56:30 +0000] [4128] [INFO] Booting worker with pid: 4128
+[2024-12-08 05:58:31 +0000] [4125] [INFO] Handling signal: term
+[2024-12-08 05:58:31 +0000] [4128] [INFO] Worker exiting (pid: 4128)
+[2024-12-08 05:58:31 +0000] [4127] [INFO] Worker exiting (pid: 4127)
+[2024-12-08 05:58:31 +0000] [4125] [INFO] Shutting down: Master
